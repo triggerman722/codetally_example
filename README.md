@@ -42,11 +42,11 @@ codetally_example/
 └── codetally.json
 ```
 
-`README.md` - that's this file.
-`LICENSE` - legal mumbo-jumbo
-`index.html` - a sample file you can modify endlessly.
-`timelog.json` - a codetally file used for tallying costs based on time entries. For more information, visit [Codetally help](http://www.codetally.com/index.html#/help)
-`codetally.json` - a codetally file used for tallying costs based on charges. For more information, visit [Codetally help](http://www.codetally.com/index.html#/help)
+- `README.md` - that's this file.
+- `LICENSE` - legal mumbo-jumbo
+- `index.html` - a sample file you can modify endlessly.
+- `timelog.json` - a codetally file used for tallying costs based on time entries. For more information, visit [Codetally help](http://www.codetally.com/index.html#/help)
+- `codetally.json` - a codetally file used for tallying costs based on charges. For more information, visit [Codetally help](http://www.codetally.com/index.html#/help)
 
 ## Bugs and feature requests
 
