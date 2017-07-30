@@ -2,8 +2,8 @@
   <a href="http://www.codetally.com">
     <img src="http://www.codetally.com/codetally_help_logo_ns.png" width=72>
   </a>  
-  
-    <h3 align="center">Codetally</h3>
+
+  <h3 align="center">Codetally</h3>
 
   <p align="center">Tally up code costs automatically. 
     <br>
